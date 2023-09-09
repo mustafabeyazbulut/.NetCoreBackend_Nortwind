@@ -1,0 +1,17 @@
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\bin\Debug\netstandard2.1\Business.deps.json
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\bin\Debug\netstandard2.1\Business.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\bin\Debug\netstandard2.1\Business.pdb
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\bin\Debug\netstandard2.1\Core.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\bin\Debug\netstandard2.1\Entities.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\obj\Debug\netstandard2.1\Business.csproj.AssemblyReference.cache
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\obj\Debug\netstandard2.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\obj\Debug\netstandard2.1\Business.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Business\obj\Debug\netstandard2.1\Business.pdb

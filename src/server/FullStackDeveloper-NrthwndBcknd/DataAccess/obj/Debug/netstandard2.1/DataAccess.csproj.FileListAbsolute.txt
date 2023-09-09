@@ -1,0 +1,15 @@
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\DataAccess\bin\Debug\netstandard2.1\DataAccess.deps.json
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\DataAccess\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\DataAccess\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\DataAccess\bin\Debug\netstandard2.1\Core.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\DataAccess\bin\Debug\netstandard2.1\Entities.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\DataAccess\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\DataAccess\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\DataAccess\obj\Debug\netstandard2.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CopyComplete
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\DataAccess\obj\Debug\netstandard2.1\DataAccess.dll
+C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\DataAccess\obj\Debug\netstandard2.1\DataAccess.pdb
