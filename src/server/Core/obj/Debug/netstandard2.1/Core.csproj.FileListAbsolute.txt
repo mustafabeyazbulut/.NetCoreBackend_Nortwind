@@ -8,3 +8,13 @@ C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Core\obj\D
 C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
 C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Core\obj\Debug\netstandard2.1\Core.dll
 C:\Users\faruk\source\repos\FullStack\FullStackDeveloper-NrthwndBcknd\Core\obj\Debug\netstandard2.1\Core.pdb
+C:\Users\mustafa\Documents\GitHub\.NetCoreBackend_Nortwind\src\server\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\mustafa\Documents\GitHub\.NetCoreBackend_Nortwind\src\server\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\mustafa\Documents\GitHub\.NetCoreBackend_Nortwind\src\server\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\mustafa\Documents\GitHub\.NetCoreBackend_Nortwind\src\server\Core\obj\Debug\netstandard2.1\Core.csproj.AssemblyReference.cache
+C:\Users\mustafa\Documents\GitHub\.NetCoreBackend_Nortwind\src\server\Core\obj\Debug\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Documents\GitHub\.NetCoreBackend_Nortwind\src\server\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\mustafa\Documents\GitHub\.NetCoreBackend_Nortwind\src\server\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\mustafa\Documents\GitHub\.NetCoreBackend_Nortwind\src\server\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Documents\GitHub\.NetCoreBackend_Nortwind\src\server\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\mustafa\Documents\GitHub\.NetCoreBackend_Nortwind\src\server\Core\obj\Debug\netstandard2.1\Core.pdb
